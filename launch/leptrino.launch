@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="leptrino_ros_pkg" type="leptrino" name="leptrino" output="screen"> 	  	
+  </node>
+</launch>  
+ 
